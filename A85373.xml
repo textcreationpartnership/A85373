@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new catechisme, commanded to be set forth in this time of reformation, being the principall grounds of Christian religion, with directions for the examining of all persons, before they come to receive the holy Communion, or Lords Supper. Also, with a breefe direction, how to read the Holy Scriptures with profit. / Written by William Good, minister of Gods word, at Denton in Norfolke. Published according to order.</title>
+            <author>Goode, William, b. 1599 or 1600.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85373</idno>
+            <idno type="STC">Wing G1096</idno>
+            <idno type="STC">Thomason E1185_6</idno>
+            <idno type="STC">ESTC R210211</idno>
+            <idno type="EEBO-CITATION">99869030</idno>
+            <idno type="PROQUEST">99869030</idno>
+            <idno type="VID">170685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E1185[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new catechisme, commanded to be set forth in this time of reformation, being the principall grounds of Christian religion, with directions for the examining of all persons, before they come to receive the holy Communion, or Lords Supper. Also, with a breefe direction, how to read the Holy Scriptures with profit. / Written by William Good, minister of Gods word, at Denton in Norfolke. Published according to order.</title>
+                  <author>Goode, William, b. 1599 or 1600.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170685:1" rendition="simple:additions"/>
+            <p>A NEW CATECHISME, Commanded to be ſet forth in this time of Reformation, being the Principall grounds of Chriſtian Reli<g ref="char:EOLhyphen"/>gion, with directions for the Exam<g ref="char:EOLhyphen"/>mining of all Perſons, before they come to Receive the Holy Communion, or Lords Supper.</p>
+            <p>ALSO, With a breefe Direction, how to Read the Holy SCRIPTURES with profit.</p>
+            <p>Written by WILLIAM GOOD. Miniſter of Gods word, at <hi>Denton</hi> in <hi>Norfolke.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Bernerd Alſop,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170685:2"/>
+            <pb facs="tcp:170685:2"/>
+            <head>A GODLY DIRECTION, <hi>For the Receiving of the</hi> HOLIE COMMUNION.</head>
+            <p>
+               <hi>Q. <seg rend="decorInit">W</seg>Hat is required of a man, that he may receive the Communion to his comfort?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Some thing is to bee done before, ſome thing in the receiving, ſome thing after.</p>
+            <p>
+               <hi>Q. What is to be done before?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> *To perepare our ſelves rightly for the receivng of it.</p>
+            <p>
+               <hi>Q. Wherein conſiſts this preparation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In getting ſound knowledge, true Faith, Repentance, Obedience, Love, and earneſt and humble deſire of it, and in exammination, and renewing of theſe graces.</p>
+            <p>
+               <hi>Q. What knowledge muſt we have?</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:170685:3"/>
+               <hi>A.</hi> A ſanctified knowledge of God, of our ſelves, of Chriſt, of the grace of Chriſt, and the meanes of this grace, as hath been ſhewed before. Now the Sa<g ref="char:EOLhyphen"/>craments are one meanes of grace, the doctrine whereof we muſt know parti<g ref="char:EOLhyphen"/>cularly.</p>
+            <p>
+               <hi>Q. What is a Sacrament.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An outward ſigne ordained of God. <hi>Gen. <hi>17.11.</hi> Math. <hi>26.26.</hi>
+               </hi> whereby Chriſt and all his benifits are ſignified, <hi>Rom. <hi>4.11.</hi>
+               </hi> if we truly beleeve, are con<g ref="char:EOLhyphen"/>verted and ſealed unto it: <hi>1 <hi>Pet.</hi> 3.21. 1 <hi>Cor.</hi> 10.16. <hi>Exod.</hi> 12.3.4.5.</hi>
+            </p>
+            <p>
+               <hi>Q. What meane you by Chriſt and and all his benifits.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not a corporall eating of Chriſt, as the Papiſt vainly immagin, compare <hi>Acts <hi>3.21.</hi>
+               </hi> with <hi>Matt. <hi>28.6.</hi> Iohn <hi>16.10.</hi>
+               </hi> but Chriſt is received by a ſpirituall u<g ref="char:EOLhyphen"/>nion with him and being made liveing members of that body, whereof Chriſt is the head, <hi>Iohn <hi>15, 2.</hi> Epheſ <hi>5.30.</hi> Acts. <hi>3.21.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Q. What meane you by the benifits of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Iuſtification, comfort in affliction,
+<pb n="5" facs="tcp:170685:3"/>
+ſanctification, and all other bleſſings me<g ref="char:EOLhyphen"/>rited by him for us, <hi>Tit <hi>3.5.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Q. How many Sacraments be there<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, Baptiſme, and the Supper of the Lord.</p>
+            <p>
+               <hi>Q What is Baptiſme?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Sacrament of over ingraft<g ref="char:EOLhyphen"/>ing into Chriſt, and the ſociety of the faithfull, and of receiving of the ſeale of the covenant of grace, <hi>Tit. <hi>3.5.</hi> Matth. <hi>28.17.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Q. How many parts be there in a Sa<g ref="char:EOLhyphen"/>crament.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The ſigne, and the thing ſigni<g ref="char:EOLhyphen"/>fied.</p>
+            <p>
+               <hi>Q What is the outward ſigne in bap<g ref="char:EOLhyphen"/>tiſme.</hi>
+            </p>
+            <p>
+               <hi>A</hi> Water, wherewith the child is Babtized, in the Name of the Father, and of the Sonne, and of the Holy Ghoſt.</p>
+            <p>
+               <hi>Q. What is the inward Grace,</hi> or <hi>thing ſignified.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The blood of Chriſt, whereby we are purged from ſinne, juſtified, <hi>Heb. <hi>9.14.</hi>
+               </hi> and the ſpirit of Chriſt, whereby we are ſanctified, enabled to die to ſinne, and lead a new life<g ref="char:punc">▪</g> Theſe benifits are
+<pb n="6" facs="tcp:170685:4"/>
+ſealed by Baptiſme to the true beleever. <hi>Rom. 6.3.4.5. 2. Cor. 3.17. Gal. 5.24.</hi>
+            </p>
+            <p>
+               <hi>Q. What is the Lords Supper.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Sacrament that cauſeth our continuance and groweth in Chriſt, <hi>Matt. <hi>26.27. 1.</hi> Cor. <hi>10.16.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Q. What is the outward ſigne in the Lords ſupper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Bread and Wine, with the acti<g ref="char:EOLhyphen"/>ons pertaining to them, according to Chriſts conſtitution, as breaking by any lawfull meanes, Receiving, Eating, Drinking, <hi>Matt. <hi>26.26.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Q. What ia the thing ſignified?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt and all his benifits, which I ſhall as certainly receive, if I be<g ref="char:EOLhyphen"/>leeve, as I receive the Bread and Wine into my body <hi>1 <hi>Cor.</hi> 11.24. 1 <hi>Cor.</hi> 1.30. <hi>Rom.</hi> 4.23.</hi>
+            </p>
+            <p>
+               <hi>Q. How doe the Bread and Wine in the Sacrament differ from common bread and wine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not at all in nature and ſub<g ref="char:EOLhyphen"/>ſtance, but in uſe only, being now made meanes to increaſe in us our Sanctifi<g ref="char:EOLhyphen"/>cation, and to aſſure us of Iuſtification, <hi>Rom. 411.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:170685:4"/>
+               <hi>Q. Who ordained this Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt himſelfe, <hi>1. Cor. 11.23.24. Matt. 26.26.27.</hi>
+            </p>
+            <p>
+               <hi>Q. What are the reaſons, which are the ends for which we muſt receive the Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Firſt, that we may obey Chriſt, that hath ſo commanded: <hi>Matth. 26.27.</hi> Secondly, that we may the better under<g ref="char:EOLhyphen"/>ſtand, and remember what Chriſt hath done for us, of whoſe death and blood ſhed, the breaking of the Bread, and the powring out of the Wine, is a lively re<g ref="char:EOLhyphen"/>ſemblance. <hi>1 cor. 11.26. Heb. 9.26. Gal. 3.1.</hi> Thirdly, that I may be ſtirrred up to be more thankfull to him for his infinite Mercy, <hi>1 Cor. 11.24.</hi> Fourthly, that all Graces needfull to ſalvation, may be in<g ref="char:EOLhyphen"/>creaſed in me. <hi>Rom. 8.29. Matt. 25.45. 2 <hi>Cor.</hi> 11.25.</hi> Fiftly, that the aſſurance of my ſalvation, may be hereby ſealed un<g ref="char:EOLhyphen"/>to me, <hi>John 6.51. Rom. 4.11.</hi> Sixtly, to teach us what union and love ought to be amongſt Chriſtians, being all but one body, repreſented by one Bread, <hi>1. <hi>Cor.</hi> 10.13.</hi>
+            </p>
+            <p>
+               <hi>Q. <hi>What elſe is required in our pre<g ref="char:EOLhyphen"/>paration?</hi>
+               </hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:170685:5"/>
+               <hi>A.</hi> Faith Repentance, Oobedience Love, as may be ſeen before.</p>
+            <p>
+               <hi>Q. VVhat is the ſumme of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Firſt to take Chriſt as my only Lord and Saviour, beleeving the for<g ref="char:EOLhyphen"/>giveneſſe of all my ſinnes, and puniſh<g ref="char:EOLhyphen"/>ment due to them by Chriſt only, <hi>Epheſ. 1, 13. Acts 16, 3.</hi>
+            </p>
+            <p>Secondly, that I grive for nothing ſo much, as that I have offended God by my ſinnes, <hi>Ezech. 10.12.</hi> Mourning and bewayling, from my very heart, all my ſinnes, even my uncleane thoughts, and evill motions, though I conſent not to them, <hi>Rom. 7.2.</hi>
+            </p>
+            <p>Thirdly, that I hate and leave every ſinne. <hi>Pſal. 119.104.</hi> and walke in obedi<g ref="char:EOLhyphen"/>ence to every Commandement; ſo that I alow my ſelfe no ſinne to raigne in me, but mortifie, and leſſen every ſinne, <hi>Pſal. 119.104. James 2.19.</hi> ſo that I am willing, and reſolved rather to ſuffer death, then to continue in any knowne ſinne, <hi>Luke 14.26.</hi>
+            </p>
+            <p>Fourthly, that I love God above all, <hi>Matt. 22.37.</hi> grived to ſee him offended by
+<pb n="9" facs="tcp:170685:5"/>
+any, <hi>Pſal. 119.136.</hi> uſeing all meanes, carefully, and conſtantly, whereby I may be enabled to keep all His Commande<g ref="char:EOLhyphen"/>ments, and deſire nothing ſo much, as grace and power to doe His will, <hi>Matth. 5.6.</hi>
+            </p>
+            <p>Fiftly, if any offence be between my Brother and me, that I reconcile my ſelfe unto him, wiſhing the ſame good to his ſoule and body as to my owne; that I labour to bring others to true Repen<g ref="char:EOLhyphen"/>tance; that I love Gods people, and that for their holyneſſe, above all others, <hi>1 John 3.14.</hi> that I love and doe good to my enemies.</p>
+            <p>
+               <hi>Q. VVhat elſe is required in this Preparation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That humbly and earneſtly, thirſt after this ſacrament, and the bleſſing of God upon it, that it may worke theſe effects in me, for which it is ordayned.</p>
+            <p>
+               <hi>Q. VVhat meane you by humble thirſting?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I acknowledge my ſelfe altogether unworthy to receive it, in re<g ref="char:EOLhyphen"/>ſpect of any thing in my ſelfe, and that I looke for acceptance of my worke
+<pb n="10" facs="tcp:170685:6"/>
+through Chriſt.</p>
+            <p>
+               <hi>Q. VVhat elſe is required?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I would ſtrictly examine my ſelfe, whether I have theſe graces or no. <hi>1 <hi>Cor.</hi> 11.28. 2 <hi>Cor.</hi> 13.5.</hi>
+            </p>
+            <p>
+               <hi>Q. VVhat elſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I ſhould renew all theſe graces, <hi>1 <hi>Cor.</hi> 11.31.</hi>
+            </p>
+            <p>
+               <hi>Q. VVhat is it to renew the graces of God in us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To quicken and ſtirre them up, and to make them more active.</p>
+            <p>
+               <hi>Q. How may this be done?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Firſt our knowledge may be re<g ref="char:EOLhyphen"/>newed, by meditating, reading, and con<g ref="char:EOLhyphen"/>ferring on the the cheife principalls of Religion.</p>
+            <p>Secondly, our Repentance may be re<g ref="char:EOLhyphen"/>newed by the conſideration of the num<g ref="char:EOLhyphen"/>ber, and haniouſneſſe of our ſinnes, by that eternity of wrath, that is due unto them, and the infinite Goodneſſe, Holy<g ref="char:EOLhyphen"/>neſſe, and Mercy of that God, that is of<g ref="char:EOLhyphen"/>fended by them.</p>
+            <p>Thirdly, our Faith may be renewed, by conſidering the Al-ſufficiencie of Chriſt, to ſatisfie Gods wrath for ſin,
+<pb n="11" facs="tcp:170685:6"/>
+to purchaſe ſalvation for us, and the full<g ref="char:EOLhyphen"/>neſſe and freeneſſe of Gode grace offer<g ref="char:EOLhyphen"/>ed unto us in the promiſes.</p>
+            <p>Fourthly, our obedience may be re<g ref="char:EOLhyphen"/>newed by reſolutions and covenants, of better and more ſtrict walking, for the time to come.</p>
+            <p>Fiftly, our love to God may be re<g ref="char:EOLhyphen"/>newed, by conſidering the infinite varie<g ref="char:EOLhyphen"/>ty of the expreſſions of Gods love to us, in forbearing, giving, and forgiving; and eſpecially, in the unſpeakable ſufferings of Chriſt, Our love to man may be re<g ref="char:EOLhyphen"/>newed, by conſidering how infinitely more is forgiven us by God in one day, then we can forgive to others in all our lives: How will God forgive us, if wee forgive not our Neighbours? And by conſidering how bountifull love is, where it is true; and by labouring for meek, and humble ſpirits and contented mindes.</p>
+            <p>Sixtly, our hungring, and thirſting, after Chriſt, in this Ordinance, may bee ſtirred up, by conſideration of our lamen<g ref="char:EOLhyphen"/>table emptineſſe in our ſelves; our dayly and grivious failings; and how feare<g ref="char:EOLhyphen"/>full
+<pb n="12" facs="tcp:170685:7"/>
+the abſence of Gods grace, or the comfort of his Holy Spirit, will be to our ſoules, eſpecially, if procured by any neglect of meanes by us, <hi>Matt. 7.7.</hi>
+            </p>
+            <p>
+               <hi>Q. VVhat is to be done in receiving the Holy Communion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Firſt, I muſt meditate upon the Elements, and the Actions of the Mi<g ref="char:EOLhyphen"/>niſter; for theſe are ordained of Chriſt, to teach us the nature of theſe benifits we receive by Him, being adminiſtred according to His inſtitution.</p>
+            <p>Secondly, I muſt meditate, when I ſee the Miniſter ſet apart the Bread and Wine, and bleſſing them; that Chriſt was ſet apart for mans redemption, and furniſhed with all needfull abillities thereunto.</p>
+            <p>Thirdly, when I ſee the Bread broken, and the Wine powred out, <hi>I</hi> muſt conſider of the infinite hauiouſneſſe of my ſinnes, the infinite love of God, and the torments that Chriſt ſuffered for me; beleeving Chriſts blood to have been ſhed, and His body broken, as verily for my ſinnes, as this Wine is powred out, and this Bread broken, which is before
+<pb n="13" facs="tcp:170685:7"/>
+my eies. <hi>1 <hi>Cor.</hi> 11.25.</hi>
+            </p>
+            <p>Fourthly, when the Miniſter com<g ref="char:EOLhyphen"/>meth to me with Bread and Wine, I muſt put forth an act of Faith to beleeve, that my ſoule ſhall be as verily fed unto eternall life by Chriſt, as my body is nouriſhed by the Bread and Wine.</p>
+            <p>Fiftly, having received them, I muſt lift up my ſoule in thankfulneſſe to God, praying, that as this is the greateſt gift, that ever God gave or man receiv<g ref="char:EOLhyphen"/>ed, and that it may be ſo to me, and that <hi>I</hi> may be able by his grace, to offer up my body and ſoule, even what <hi>I</hi> am, or have, as lively ſacrafices unto him to honour him all the dayes of my life, a <hi>Knigs 8.66.</hi>
+            </p>
+            <p>
+               <hi>Q. VVhat is to be done after the re<g ref="char:EOLhyphen"/>ceiving?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Wee muſt labour co finde our graces ſtrengthned, and give God hear<g ref="char:EOLhyphen"/>ty thanks for his bleſſings, <hi>Prov. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. Ezech. 47.12.</hi> And if we finde little or no benifit, we muſt be humbled for our want of preparation, and depend upon God with patience, for increaſe of grace un<g ref="char:EOLhyphen"/>till He ſhall pleaſe to give it. Wee muſt alſo ſtrictly indeavour, to keep the Cove<g ref="char:EOLhyphen"/>nants,
+<pb n="14" facs="tcp:170685:8"/>
+and Promiſes, which we have made to God in this Sacrament, in Ho<g ref="char:EOLhyphen"/>lyneſſe and Righteouſneſſe all the dayes of our lives, <hi>Judges 10.14. Exodus 13.9.</hi>
+            </p>
+            <p>
+               <hi>Q. How often muſt we receive this Sacrament of the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> So often as it is appointed, by the Miniſters, to be received in the Church where we live, <hi>Numb. 913.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb n="15" facs="tcp:170685:8"/>
+            <head>DIRECTIONS HOW to Read the Holy SCRIPTVRES, with Profit.</head>
+            <p>FIRST, ever begin with Prayer, and Invocation upon Gods holy Name. Read with a Minde, Learne your Duty, with a purpoſe to Practiſe what you know.</p>
+            <p>Deny your owne reaſon, and wiſ<g ref="char:EOLhyphen"/>dome, in ſeeking to finde out the ſence of Scripture.</p>
+            <p>VVhen you read Gods word, ever note eſpecially thoſe places, which will give you moſt comfort againſt all af<g ref="char:EOLhyphen"/>flictions, and croſſes in generall.</p>
+            <p>Then obſerve, more eſpecially, wherewith God hath, or doth, moſt perticularly try you withall; and ga<g ref="char:EOLhyphen"/>ther the more eſpeciall places againſt them.</p>
+            <p>Obſerve thoſe places, eſpecially, where the generall duties of Chriſtia<g ref="char:EOLhyphen"/>nity
+<pb n="16" facs="tcp:170685:9"/>
+are commanded to us, and referre them to ſome of the commandements.</p>
+            <p>Obſerve more particularly, thoſe places, where your owne perticular du<g ref="char:EOLhyphen"/>ty, of a Father a Mother, a Son, a Ser<g ref="char:EOLhyphen"/>vant, &amp;c. And the perticular duty of your generall calling, as a Magiſtrate, Miniſter, &amp;c. VVhat ever your calling be. Obſerve eſpecially, thoſe places, wherin the principall grounds of our Religion are plainely layd down, that you may be able to render a reaſon of your Faith. Obſerve the heryſes, which trouble the Church, werein you live, and ever as you Reade obſerve places, which moſt of all make againſt thoſe Heryſies, that you may be able to ſtop the mouthes of all gaine-ſayers.</p>
+            <p>Obſerve thoſe ſinnes whereto you are moſt eſpecially tempted, and in danger to be drawn to; and gather pla<g ref="char:EOLhyphen"/>ces of Scripture, which moſt of all ſpeake againſt them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170685:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
